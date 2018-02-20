@@ -1,0 +1,1782 @@
+Game 1: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Brett Gardner CF
+Robinson Cano 2B
+Alex Rodriguez DH
+Vernon Wells LF
+Chris Stewart C
+Eduardo Nunez 3B
+Eduardo Nunez 3B
+
+Game 2: 
+Brendan Ryan SS
+Brennan Boesch RF
+Brett Gardner CF
+Robinson Cano 2B
+Alex Rodriguez DH
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez 3B
+
+Game 3: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Curtis Granderson DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 4: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Curtis Granderson DH
+Mark Reynolds 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Jayson Nix SS
+
+Game 5: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Curtis Granderson DH
+Lyle Overbay 1B
+Vernon Wells LF
+Chris Stewart C
+Eduardo Nunez 3B
+Eduardo Nunez 3B
+
+Game 6: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Curtis Granderson DH
+Mark Reynolds 1B
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez SS
+Austin Romine C
+
+Game 7: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Curtis Granderson DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 8: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Curtis Granderson DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Luis Cruz SS
+Chris Stewart C
+
+Game 9: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Curtis Granderson DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 10: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Curtis Granderson DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 11: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Curtis Granderson DH
+Lyle Overbay 1B
+Vernon Wells LF
+Chris Stewart C
+Eduardo Nunez 3B
+Eduardo Nunez 3B
+
+Game 12: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Curtis Granderson DH
+Mark Reynolds 1B
+Vernon Wells LF
+Brendan Ryan SS
+Eduardo Nunez 3B
+Austin Romine C
+
+Game 13: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Curtis Granderson DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez 3B
+
+Game 14: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Curtis Granderson DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez SS
+
+Game 15: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Curtis Granderson DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 16: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Robinson Cano 2B
+Curtis Granderson CF
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 17: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 18: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Vernon Wells LF
+Ichiro Suzuki RF
+Chris Stewart C
+Brendan Ryan SS
+David Adams 3B
+
+Game 19: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Jayson Nix SS
+Chris Stewart C
+
+Game 20: 
+Ichiro Suzuki RF
+Ben Francisco DH
+Brett Gardner CF
+Robinson Cano 2B
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 21: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Jayson Nix SS
+Chris Stewart C
+
+Game 22: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Francisco Cervelli C
+Ichiro Suzuki RF
+Eduardo Nunez 3B
+
+Game 23: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 24: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Robinson Cano 2B
+Curtis Granderson CF
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Jayson Nix SS
+Austin Romine C
+
+Game 25: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez 3B
+
+Game 26: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Eduardo Nunez SS
+Austin Romine C
+
+Game 27: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Jayson Nix SS
+Chris Stewart C
+
+Game 28: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Chris Stewart C
+Eduardo Nunez 3B
+Eduardo Nunez 3B
+
+Game 29: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Chris Stewart C
+Eduardo Nunez SS
+David Adams 3B
+
+Game 30: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 31: 
+Ichiro Suzuki RF
+Francisco Cervelli C
+Brett Gardner CF
+Robinson Cano 2B
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Travis Hafner DH
+Vernon Wells LF
+Eduardo Nunez 3B
+
+Game 32: 
+Ichiro Suzuki RF
+Vernon Wells LF
+Brett Gardner CF
+Alfonso Soriano DH
+Mark Reynolds 1B
+Alex Rodriguez 3B
+Chris Stewart C
+Eduardo Nunez 3B
+Jayson Nix 2B
+
+Game 33: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 34: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Vernon Wells LF
+Ichiro Suzuki RF
+Chris Stewart C
+Eduardo Nunez 3B
+Eduardo Nunez 3B
+
+Game 35: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Brendan Ryan SS
+Francisco Cervelli C
+
+Game 36: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez 3B
+Eduardo Nunez 3B
+
+Game 37: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez SS
+
+Game 38: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 39: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Eduardo Nunez SS
+Austin Romine C
+
+Game 40: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Mark Reynolds 1B
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 41: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 42: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Francisco Cervelli C
+Ichiro Suzuki RF
+Eduardo Nunez 3B
+
+Game 43: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez SS
+
+Game 44: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 45: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 46: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Chris Stewart C
+Brendan Ryan SS
+Eduardo Nunez 3B
+
+Game 47: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Austin Romine C
+
+Game 48: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Mark Reynolds 1B
+Vernon Wells LF
+Chris Stewart C
+Eduardo Nunez 3B
+Eduardo Nunez 3B
+
+Game 49: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Kevin Youkilis 1B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Brendan Ryan 2B
+Eduardo Nunez SS
+Austin Romine C
+
+Game 50: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 51: 
+Ichiro Suzuki RF
+Francisco Cervelli C
+Brett Gardner CF
+Robinson Cano 2B
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Travis Hafner DH
+Vernon Wells LF
+Eduardo Nunez 3B
+
+Game 52: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez SS
+
+Game 53: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Luis Cruz SS
+Chris Stewart C
+
+Game 54: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Robinson Cano 2B
+Curtis Granderson CF
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez 3B
+Austin Romine C
+
+Game 55: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Mark Reynolds 1B
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 56: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Mark Reynolds 1B
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 57: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Mark Reynolds 1B
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 58: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Chris Stewart C
+Eduardo Nunez 3B
+Eduardo Nunez 3B
+
+Game 59: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 60: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Vernon Wells LF
+Brent Lillibridge 3B
+Ichiro Suzuki RF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 61: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 62: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Francisco Cervelli C
+Ichiro Suzuki RF
+Eduardo Nunez SS
+
+Game 63: 
+Ichiro Suzuki RF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Curtis Granderson CF
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Luis Cruz SS
+Austin Romine C
+
+Game 64: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 65: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Mark Reynolds 1B
+Chris Nelson 3B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 66: 
+Ichiro Suzuki RF
+Francisco Cervelli C
+Brett Gardner CF
+Robinson Cano 2B
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Travis Hafner DH
+Vernon Wells LF
+Eduardo Nunez 3B
+
+Game 67: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Luis Cruz 3B
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 68: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Luis Cruz SS
+Eduardo Nunez 3B
+
+Game 69: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez 3B
+
+Game 70: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 71: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Mark Reynolds 1B
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez 3B
+Austin Romine C
+
+Game 72: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Austin Romine C
+
+Game 73: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 74: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Robinson Cano 2B
+Curtis Granderson CF
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez SS
+Austin Romine C
+
+Game 75: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 76: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Austin Romine C
+
+Game 77: 
+Ichiro Suzuki RF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Curtis Granderson CF
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 78: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Robinson Cano 2B
+Curtis Granderson CF
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 79: 
+Ichiro Suzuki RF
+Vernon Wells LF
+Robinson Cano 2B
+Curtis Granderson CF
+Alfonso Soriano DH
+Mark Reynolds 1B
+Eduardo Nunez SS
+Austin Romine C
+David Adams 3B
+
+Game 80: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 81: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Robinson Cano 2B
+Curtis Granderson CF
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez SS
+Austin Romine C
+
+Game 82: 
+Brett Gardner CF
+Lyle Overbay 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Zoilo Almonte RF
+Eduardo Nunez 3B
+Austin Romine C
+
+Game 83: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 84: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez 3B
+
+Game 85: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Chris Stewart C
+Eduardo Nunez 3B
+Eduardo Nunez 3B
+
+Game 86: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 87: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 88: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Luis Cruz SS
+Austin Romine C
+
+Game 89: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 90: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez 3B
+Eduardo Nunez 3B
+
+Game 91: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Brett Gardner CF
+Robinson Cano 2B
+Alex Rodriguez 3B
+Travis Hafner DH
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 92: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Vernon Wells LF
+Ichiro Suzuki RF
+Eduardo Nunez 3B
+Eduardo Nunez 3B
+Austin Romine C
+
+Game 93: 
+Brett Gardner CF
+Brennan Boesch RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 94: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Mark Reynolds 1B
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 95: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Mark Reynolds 1B
+Chris Nelson 3B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 96: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Robinson Cano 2B
+Curtis Granderson CF
+Travis Hafner DH
+Vernon Wells LF
+Chris Stewart C
+Eduardo Nunez SS
+David Adams 3B
+
+Game 97: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alex Rodriguez 3B
+Travis Hafner DH
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez 3B
+
+Game 98: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Mark Reynolds 1B
+Vernon Wells LF
+Reid Brignac SS
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 99: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 100: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Luis Cruz SS
+Chris Stewart C
+
+Game 101: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Robinson Cano 2B
+Curtis Granderson CF
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 102: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Luis Cruz SS
+Chris Stewart C
+
+Game 103: 
+Brett Gardner CF
+Brennan Boesch RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez 3B
+
+Game 104: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Brett Gardner CF
+Robinson Cano 2B
+Alex Rodriguez 3B
+Travis Hafner DH
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 105: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez 3B
+
+Game 106: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 107: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 108: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Francisco Cervelli C
+Ichiro Suzuki RF
+Eduardo Nunez 3B
+
+Game 109: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Mark Reynolds 1B
+Alex Rodriguez 3B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez 3B
+
+Game 110: 
+Brett Gardner CF
+Ben Francisco RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Austin Romine C
+
+Game 111: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Eduardo Nunez 3B
+Austin Romine C
+
+Game 112: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 113: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 114: 
+Ichiro Suzuki RF
+Luis Cruz SS
+Brett Gardner CF
+Robinson Cano 2B
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Travis Hafner DH
+Vernon Wells LF
+Chris Stewart C
+
+Game 115: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Chris Stewart C
+Eduardo Nunez 3B
+Eduardo Nunez 3B
+
+Game 116: 
+Ichiro Suzuki RF
+Francisco Cervelli C
+Robinson Cano 2B
+Curtis Granderson CF
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+
+Game 117: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 118: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Luis Cruz SS
+Chris Stewart C
+
+Game 119: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Luis Cruz SS
+Chris Stewart C
+
+Game 120: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 121: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 122: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Austin Romine C
+David Adams 3B
+
+Game 123: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 124: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Luis Cruz SS
+Francisco Cervelli C
+
+Game 125: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 126: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 127: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Chris Stewart C
+Eduardo Nunez 3B
+Eduardo Nunez 3B
+
+Game 128: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez 3B
+
+Game 129: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Francisco Cervelli C
+Ichiro Suzuki RF
+Reid Brignac SS
+
+Game 130: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Luis Cruz SS
+Austin Romine C
+
+Game 131: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Brett Gardner CF
+Robinson Cano 2B
+Alex Rodriguez 3B
+Travis Hafner DH
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 132: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 133: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Vernon Wells LF
+Ichiro Suzuki RF
+Reid Brignac SS
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 134: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Kevin Youkilis 1B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Chris Stewart C
+Eduardo Nunez 3B
+Jayson Nix 2B
+
+Game 135: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 136: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 137: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Reid Brignac SS
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 138: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Mark Reynolds 1B
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez 3B
+Austin Romine C
+
+Game 139: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 140: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 141: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Robinson Cano 2B
+Curtis Granderson CF
+Alfonso Soriano DH
+Vernon Wells LF
+Eduardo Nunez 3B
+Eduardo Nunez 3B
+Austin Romine C
+
+Game 142: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Robinson Cano 2B
+Curtis Granderson CF
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 143: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez SS
+
+Game 144: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Austin Romine C
+
+Game 145: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez SS
+
+Game 146: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Chris Stewart C
+Eduardo Nunez 3B
+Eduardo Nunez 3B
+
+Game 147: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Brett Gardner CF
+Robinson Cano 2B
+Alex Rodriguez 3B
+Travis Hafner DH
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 148: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Mark Reynolds 1B
+Vernon Wells LF
+Chris Stewart C
+Eduardo Nunez SS
+David Adams 3B
+
+Game 149: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alex Rodriguez 3B
+Travis Hafner DH
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 150: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Austin Romine C
+
+Game 151: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Austin Romine C
+
+Game 152: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Luis Cruz SS
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 153: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Austin Romine C
+
+Game 154: 
+Brett Gardner CF
+Ben Francisco RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 155: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 156: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Lyle Overbay 1B
+Vernon Wells LF
+Luis Cruz SS
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 157: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 158: 
+Brett Gardner CF
+Kevin Youkilis 1B
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Ichiro Suzuki RF
+Luis Cruz SS
+Austin Romine C
+
+Game 159: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
+Game 160: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Francisco Cervelli C
+Eduardo Nunez 3B
+
+Game 161: 
+Brett Gardner CF
+Ichiro Suzuki RF
+Robinson Cano 2B
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Lyle Overbay 1B
+Vernon Wells LF
+Eduardo Nunez SS
+Chris Stewart C
+
+Game 162: 
+Ichiro Suzuki RF
+Lyle Overbay 1B
+Robinson Cano 2B
+Curtis Granderson CF
+Alfonso Soriano DH
+Alex Rodriguez 3B
+Vernon Wells LF
+Eduardo Nunez 3B
+Chris Stewart C
+
